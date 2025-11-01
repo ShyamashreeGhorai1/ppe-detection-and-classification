@@ -9,6 +9,7 @@ This project focuses on detecting and classifying **Personal Protective Equipmen
 ### 1️⃣ Clone the Repository
 
 git clone https://github.com/ShyamashreeGhorai1/ppe-detection-and-classification.git
+
 cd ppe-detection-and-classification
 
 
