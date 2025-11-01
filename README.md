@@ -13,15 +13,15 @@ cd ppe-detection-and-classification
 
 
 
-2️⃣ Create a Virtual Environment
+###2️⃣ Create a Virtual Environment
 python -m venv env
 env\Scripts\activate
 
-3️⃣ Install Dependencies
+###3️⃣ Install Dependencies
 pip install -r requirements.txt
 
-4️⃣ Train the Model
+###4️⃣ Train the Model
 python training.py
 
-5️⃣ Run the Application
+###5️⃣ Run the Application
 python app.py
