@@ -15,7 +15,6 @@ cd ppe-detection-and-classification
 
 ### 2️⃣ Create a Virtual Environment
 python -m venv env
-
 env\Scripts\activate
 
 ### 3️⃣ Install Dependencies
