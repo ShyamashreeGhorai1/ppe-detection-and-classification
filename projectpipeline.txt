@@ -1,6 +1,5 @@
 1. First, we need to annotate the data. We run data_label.py to manually annotate the images.
 2. After completing the annotation, we create the data.yaml file.
 3. Next, we train the model by running training.py.
-4. To deploy the model, we use FastAPI. Since we are running it on Google Colab, which does not allow public web servers directly, we use ngrok(signup - https://dashboard.ngrok.com/signup ->Take authentication key - https://dashboard.ngrok.com/get-started/your-authtoken-> To connect with it use !ngrok authtoken YOUR_TOKEN_HERE). 
-If we run it on a local machine or another server, then ngrok is not required.
+4. To deploy the model, we use FastAPI.
 5. Finally, we run app.py to start the application and view the results.
